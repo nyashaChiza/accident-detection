@@ -1,5 +1,6 @@
-from django.test import TestCase
 from accident_detection_api.models.responders import Responder
+from django.test import TestCase
+
 # Create your tests here.
 
 class ResponderTestCase(TestCase):
